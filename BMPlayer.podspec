@@ -41,7 +41,7 @@ s.subspec 'CacheSupport' do |cache|
 
     cache.dependency 'BMPlayer/Core'
     cache.dependency 'SnapKit', '~> 5.0.0'
-    cache.dependency 'NVActivityIndicatorView', '~> 4.7.0'
+    cache.dependency 'NVActivityIndicatorView', '~> 5.0'
     cache.dependency 'VIMediaCache'
 end
 
